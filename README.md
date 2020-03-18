@@ -6,4 +6,4 @@ Please consider donating if you think excel is helpful to you or that my work is
 
 A Budget App design.
 
-<img src="furniture_store_1.png" width="45%" height="45%">
+<img src="budget.png" width="45%" height="45%">
